@@ -8,3 +8,4 @@
 -Tunghai junior high school
 
 # AI SKILLS
+-Java Script
