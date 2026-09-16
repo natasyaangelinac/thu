@@ -1,7 +1,7 @@
 # Natasya 
 # job experiences
 -CIA
--FBI
+
 # education
 -Tunghai University
 -Tunghai Highschool
