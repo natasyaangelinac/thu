@@ -1,9 +1,9 @@
 # Natasya 
-# job experiences
--CIA
+# Job experiences
+- Procurement Engineering at CTCI 2024-2026
 
 # education
--Tunghai University
+- Civil Engineering 2020-2024
 
 
 # AI SKILLS
